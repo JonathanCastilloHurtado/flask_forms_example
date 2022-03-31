@@ -1,5 +1,5 @@
 class person():
-	
+	#this object is used to send its attributes easier
 	def __init__(self,usr,psw,address,city,state,zipCode):
 		self.usr= usr
 		self.psw= psw
